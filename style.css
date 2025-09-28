@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: black;
+    background-color: #0f1720;
     color: white;
 }
 
@@ -39,9 +39,9 @@ body{
             }
         }
 
-        .login-btn{
-            background-color:white;
-            color: black;
+        .login-btn{ 
+            background-color:#0b1620;
+            color:white;
             height: 50px;
             width: 150px;
             margin: 10px;
@@ -52,8 +52,8 @@ body{
         }
 
         .login-btn:hover{
-            background: black;
-            color: white;
+            background:white;
+            color: #0b1620;
 
         }
 
