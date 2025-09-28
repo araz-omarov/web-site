@@ -6,8 +6,8 @@
 }
 
 body{
-    background-color: rgb(68, 68, 68);
-    color:cornsilk;
+    background-color: black;
+    color: white;
 }
 
 .menu-btn{
@@ -17,12 +17,11 @@ body{
     text-align: center;
 
     .login{
-        background-color: gray;
         border-radius: 30px;
         padding: 60px;
         width: 350px;
         height: 250px;
-        border: solid cornsilk;
+        border: solid white;
 
         .username-box{
             input{
@@ -41,8 +40,8 @@ body{
         }
 
         .login-btn{
-            background-color: gray;
-            color: cornsilk;
+            background-color:white;
+            color: black;
             height: 50px;
             width: 150px;
             margin: 10px;
@@ -53,8 +52,8 @@ body{
         }
 
         .login-btn:hover{
-            background: cornsilk;
-            color: #000000;
+            background: black;
+            color: white;
 
         }
 
