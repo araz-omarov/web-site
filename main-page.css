@@ -19,7 +19,7 @@ body {
   color: var(--text);
 }
 
-.site-header {
+.menu-btn {
   width: 100%;
   padding: 16px 32px;
   background: var(--panel);
@@ -29,7 +29,7 @@ body {
   border-bottom: 1px solid rgba(255,255,255,0.1);
 }
 
-.site-header .logo {
+.menu-btn .logo {
   font-size: 24px;
   font-weight: bold;
 }
